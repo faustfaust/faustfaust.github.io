@@ -4,7 +4,7 @@ title:  "Armageddon | HackTheBox"
 date:   2021-04-12 06:16:55 -0400
 categories: hackthebox
 ---
-Main
+Hello
 
 {% highlight ruby %}
 def print_hi(name)
@@ -14,4 +14,4 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
-![My image Name](/assets/images/myimage.jpg)
+![Screenshot](/assets/images/myimage.jpg)
